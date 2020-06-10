@@ -1,4 +1,4 @@
-require_relative '../lib/triangle'
+
 class Triangle
   # write code here\
 
